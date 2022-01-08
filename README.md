@@ -1,11 +1,13 @@
-### Bonjour, 
-voici les projets auxquelles je participe activement
+## Bonjour
 
-https://github.com/Ota-cueille/GGJ-2021
-https://github.com/Ota-cueille/ECS
-
-et le projet qui m'occupe le plus en ce moment, en collaboration avec un camarade:
+Un projet en pause en collaboration avec un camarade:
 https://github.com/Azerty6/Projet
+
+## J'aime ❤️:
+ 
+ - la programmation
+ - le C++
+ - découvrire plein de choses et les mettre en pratique !
 
 <!--
 **Ota-cueille/Ota-cueille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
